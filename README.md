@@ -3,8 +3,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://www.linkedin.com/in/diego-felipe-c%C3%A9spedes-945b0b261/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BsYOyLP%2BvQvCFYRcDoSYHRg%3D%3D]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego felipe céspedes" height="30" width="40" /></a>
-<a href="https://kaggle.com/diego céspedes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="diego céspedes" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/diego-felipe-c%C3%A9spedes-945b0b261/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BsYOyLP%2BvQvCFYRcDoSYHRg%3D%3D" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Diego Felipe Céspedes" height="30" width="40" />
+  </a>
+
+  <a href="https://www.kaggle.com/diego-cespedes" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Diego Céspedes" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
