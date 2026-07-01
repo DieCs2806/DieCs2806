@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/diego felipe céspedes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego felipe céspedes" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/diego felipe céspedes](https://www.linkedin.com/in/diego-felipe-c%C3%A9spedes-945b0b261/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BsYOyLP%2BvQvCFYRcDoSYHRg%3D%3D)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego felipe céspedes" height="30" width="40" /></a>
 <a href="https://kaggle.com/diego céspedes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="diego céspedes" height="30" width="40" /></a>
 </p>
 
